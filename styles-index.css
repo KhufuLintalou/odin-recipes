@@ -1,0 +1,12 @@
+* {
+    font-family: sans-serif;
+}
+body {
+    background-color: rgb(46, 42, 42);
+}
+h1 {
+    color: white;
+}
+a {
+    font-weight: bold;
+}
