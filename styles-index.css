@@ -8,3 +8,22 @@ body {
 a {
     font-weight: bold;
 }
+h1 {
+    text-align: center;
+}
+.pasta {
+    background-color: rgb(29, 26, 26);
+    padding: 20px;
+    margin-right: 1400px;
+    padding-left: 100px;
+    border: 3px solid rgb(143, 140, 140);
+    margin-bottom: 15px; 
+}
+.omelette {
+    background-color: rgb(29, 26, 26);
+    padding: 20px;
+    margin-right: 1400px;
+    padding-left: 100px;
+    border: 3px solid rgb(143, 140, 140); 
+}
+    
